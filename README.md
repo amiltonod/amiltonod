@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/amiltonod">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amiltonod&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiltonod&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amiltonod&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiltonod&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="AJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +21,6 @@
   <a href = "mailto:amilton.od@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amilton-carvalho-junior-047b5895/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+
 
 ![ClipWindowsGIF (2)](https://user-images.githubusercontent.com/98736222/186445866-da518fba-07e2-4f98-939c-da58e821025a.gif)
