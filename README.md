@@ -1,11 +1,6 @@
 ## Olá meu nome é Amilton Junior sou estudante de programação.
 
-<div align="center">
-  <a href="https://github.com/amiltonod">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amiltonod&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiltonod&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
