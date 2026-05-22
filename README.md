@@ -14,35 +14,27 @@
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Python" height="50" width="60"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="HTML" height="50" width="60"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="50" width="60"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="HTML" height="50" width="60"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="50" width="60"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 <img align="center" alt="JavaScript" height="50" width="60"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="Git" height="50" width="60"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Git" height="50" width="60"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
 <img align="center" alt="GitHub" height="50" width="60"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-<img align="center" alt="Excel" height="50" width="60"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Excel" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
 
 </div>
 
 ---
 
-## 📊 Linguagens mais utilizadas
+## 📈 Atividade no GitHub
 
 <div align="center">
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiltonod&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiltonod&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
