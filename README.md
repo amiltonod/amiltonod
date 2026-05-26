@@ -17,7 +17,8 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Git" height="50" width="60"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="GitHub" height="50" width="60"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Excel" height="50" width="60"
+src="https://cdn.simpleicons.org/github/white">
+<img align="center" alt="Excel" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
 
