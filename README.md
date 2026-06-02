@@ -26,16 +26,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiltonod&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## 📌 Objetivos atuais
 
 ✅ Evoluir em Python  
