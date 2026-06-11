@@ -94,9 +94,9 @@ Modelagem de controle de estoque, movimentação, alertas — aplicando padrões
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiltonod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiltonod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiltonod&layout=compact&theme=tokyonight&langs_count=6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiltonod&layout=compact&theme=tokyonight&langs_count=6)
+
 
 </div>
 
